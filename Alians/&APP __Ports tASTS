@@ -1,0 +1,19 @@
+137 udp
+138 udp
+139 tcp
+42 Entry added Fri, 04 Jul 2014 11:45:53 +0200
+53 dns
+88 Kerberos Authentication
+389 LDAP Server
+464 Kerberos Password Change
+445 SMB/CIFS/SMB2
+3268  Global Catalog
+3269  Global Catalog
+9389 Active Directory Web Services (ADWS)
+636 LDAP SSL
+500 IPsec ISAKMP
+135 RPC
+593 RPC over HTTPS
+49674 RDP uwierzytelnienia sesji - uwierzytelnianie sieciowe
+49152:65535 Entry added Wed, 22 Feb 2023 07:28:30 +0100
+123 ntp
